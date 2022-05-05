@@ -1,0 +1,61 @@
+.title {
+    margin-top: 10%;
+    text-align: center;
+    color: aliceblue;
+}
+body{ 
+ background-image: url(https://www.iwata-airbrush.com/mm5/graphics/00000001/CXW060-B1_670x670.jpg);
+   
+}
+.button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.paragraph{
+    margin-left: 25%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+   color: aliceblue;
+   font-size: x-large;
+  }
+.key_skills{
+    margin-left: 25%;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+}
+.soft_skills{
+    margin-left: 25%;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+}
+.paragraph2{
+    
+    align-items: center;
+    justify-content: center;
+   color: aliceblue;
+   font-size: x-large;
+   margin-left: 25%;
+   
+  }
+.Education {
+    align-items: center;
+    justify-content: center;
+   color: aliceblue;
+   font-size: x-large;
+   margin-left: 25%;
+}
+.Projects {
+    align-items: center;
+    justify-content: center;
+   color: aliceblue;
+   font-size: x-large;
+   margin-left: 25%;
+}
+
+.Projects img {
+    margin-right: 25%;
+}
